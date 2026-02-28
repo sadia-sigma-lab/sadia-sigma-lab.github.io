@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h2 id="about">About</h2>
+<h2 id="about">About Me</h2>
 
 I am a PhD student in Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu/), advised by [Dr. Mohammad Mohammadi Amiri](https://mmamiri.github.io/). My research focuses on **trustworthy and privacy-preserving AI**, with emphasis on machine unlearning for Large scale language and vision models, multi-agent LLM safety, representation-level privacy control, and alignment.
 
