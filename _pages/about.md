@@ -39,7 +39,7 @@ I hold a B.Sc. in Electrical Engineering with a minor in Computer Science from t
 * [{{ post.title }}]({{ post.url }}){% if post.venue %} — {{ post.venue }}{% endif %}
 {% endfor %}
 
-<h2 id="teaching">Teaching</h2>
+<h2 id="teaching">Teaching Experience</h2>
 
 {% for post in site.teaching reversed %}
 * [{{ post.title }}]({{ post.url }})
