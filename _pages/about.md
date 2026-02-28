@@ -51,3 +51,11 @@ I hold a B.Sc. in Electrical Engineering with a minor in Computer Science from t
 * [ResearchGate]({{ site.author.researchgate }})
 * [LinkedIn](https://www.linkedin.com/in/{{ site.author.linkedin }})
 * [GitHub](https://github.com/{{ site.author.github }})
+
+<h2 id="visitors">Visitor Map</h2>
+
+{% if site.clustrmaps_id and site.clustrmaps_id != "" %}
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=450&t=tt&d={{ site.clustrmaps_id }}&co=2d78ad&ct=ffffff"></script>
+{% else %}
+Visitor map is enabled. Add your ClustrMaps token in `_config.yml` under `clustrmaps_id` to display live visitor geography.
+{% endif %}
