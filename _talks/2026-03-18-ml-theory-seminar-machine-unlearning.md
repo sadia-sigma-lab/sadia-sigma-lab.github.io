@@ -8,6 +8,6 @@ date: 2026-03-18
 location: "Sage 3713, Rensselaer Polytechnic Institute (RPI), Troy, NY"
 ---
 
-Our next scheduled talk will be on **March 18 at 11:00 AM** in **Sage 3713, RPI**. The speaker will be **Sadia Asif**.
+The next **ML Theory Seminar** is scheduled for **March 18 at 11:00 AM** in **Sage 3713, RPI**, and will be presented by **Sadia Asif**.
 
-Sadia will present her accepted **ICLR 2026** work on a new approach to machine unlearning. Instead of the standard scalarized objective that trades off forgetting and retention, this method is derived from the optimality conditions of a bi-level formulation of unlearning. The resulting algorithm comes with convergence-rate guarantees and achieves an improved trade-off between forgetting and retained model utility relative to prior methods.
+Sadia will present her accepted **ICLR 2026** work on machine unlearning. The talk introduces an approach derived from the optimality conditions of a bi-level unlearning formulation, rather than the standard scalarized objective that balances forgetting and retention. The resulting algorithm provides convergence-rate guarantees and demonstrates a stronger trade-off between targeted forgetting and retained model utility compared with prior methods.
