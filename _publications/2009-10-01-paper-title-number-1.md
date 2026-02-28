@@ -7,7 +7,7 @@ excerpt: 'Optimization-driven machine unlearning for large language models with 
 date: 2026-01-01
 venue: 'International Conference on Learning Representations (ICLR 2026)'
 status: 'Accepted'
-status_venue: 'ICLR 2026'
+status_venue: 'ICLR'
 paperurl: 'https://openreview.net/forum?id=ZDuyNJI56H'
 citation: 'Asif, S., &amp; Mohammadi Amiri, M. (2026). &quot;OFMU: Optimization-Driven Framework for Machine Unlearning.&quot; <i>ICLR 2026</i>.'
 ---
