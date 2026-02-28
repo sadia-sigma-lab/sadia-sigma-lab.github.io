@@ -9,4 +9,6 @@ venue: 'NeurIPS 2025 Workshop on Generative AI for Protected and Controllable Co
 citation: 'Khan, H., &amp; Asif, S. (2025). &quot;Generative AI Agents for Controllable and Protected Content Creation.&quot; <i>NeurIPS 2025 GenProCC Workshop</i>.'
 ---
 
-This work presents a generative multi-agent framework that supports controllable creation while improving protection and provenance properties for AI-generated content.
+**Status:** Published at NeurIPS 2025 GenProCC Workshop.
+
+This work presents a multi-agent generative framework for controllable and protected content creation. The approach strengthens provenance and protection mechanisms for AI-generated media while preserving controllability in practical deployment settings.

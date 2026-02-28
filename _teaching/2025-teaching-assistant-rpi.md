@@ -3,6 +3,7 @@ title: "Teaching Assistant, Undergraduate Computer Science"
 collection: teaching
 type: "Teaching Assistant"
 venue: "Rensselaer Polytechnic Institute"
+date: 2025-01-01
 location: "Troy, New York, USA"
 ---
 

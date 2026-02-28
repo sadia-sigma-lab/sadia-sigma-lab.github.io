@@ -9,4 +9,6 @@ venue: 'Under review'
 citation: 'Asif, S., Loguan, I., Asif, S., &amp; Khan, H. (2025). &quot;DarkPatterns-LLM: A Benchmark for Detecting Manipulative and Harmful Behaviors in LLMs.&quot; Under review.'
 ---
 
-DarkPatterns-LLM introduces a benchmark suite for systematically evaluating manipulative and harmful behavior in large language models. The benchmark is designed to support robust safety assessment and model comparison.
+**Status:** Under review.
+
+DarkPatterns-LLM introduces a benchmark suite for systematically evaluating manipulative and harmful behaviors in large language models. The benchmark supports rigorous safety assessment, comparative analysis, and more transparent evaluation of model behavior under adversarial and high-risk interaction settings.

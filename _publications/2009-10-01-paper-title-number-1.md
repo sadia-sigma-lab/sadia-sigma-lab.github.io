@@ -10,4 +10,6 @@ paperurl: 'https://openreview.net/forum?id=ZDuyNJI56H'
 citation: 'Asif, S., &amp; Mohammadi Amiri, M. (2026). &quot;OFMU: Optimization-Driven Framework for Machine Unlearning.&quot; <i>ICLR 2026</i>.'
 ---
 
-We propose OFMU, an optimization-driven framework for machine unlearning that removes targeted knowledge while preserving downstream utility. The approach uses penalty-based bi-level optimization and demonstrates strong forget-set removal with minimal retain-set degradation.
+**Status:** Accepted at ICLR 2026.
+
+OFMU introduces an optimization-driven approach to machine unlearning that removes targeted knowledge while preserving downstream model utility. Instead of relying on a scalarized retention-forgetting objective, it is derived from bi-level optimality conditions and offers convergence-rate guarantees with improved forgetting–utility trade-offs compared with prior methods.
