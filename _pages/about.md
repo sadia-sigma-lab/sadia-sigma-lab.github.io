@@ -39,11 +39,16 @@ I hold a B.Sc. in Electrical Engineering with a minor in Computer Science from t
 * [{{ post.title }}]({{ post.url }}){% if post.venue %} — {{ post.venue }}{% endif %}
 {% endfor %}
 
-<h2 id="teaching">Teaching Experience</h2>
+<h2 id="academic-services">Academic Services</h2>
 
-{% for post in site.teaching reversed %}
-* [{{ post.title }}]({{ post.url }})
-{% endfor %}
+* **Teaching Assistant, Rensselaer Polytechnic Institute (RPI)**
+  * Introduction to Artificial Intelligence
+  * Introduction to Algorithms
+  * Computer Architecture and Operating Systems
+  * Computer Organization
+* **Conference Reviewer**
+  * IEEE Conference on AI (CAI), 2026
+  * AAAI, 2025
 
 <h2 id="contact">Profiles</h2>
 
