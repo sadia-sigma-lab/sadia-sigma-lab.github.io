@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+I am a PhD student in Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu/), advised by [Dr. Mohammad Mohammadi Amiri](https://mmamiri.github.io/). My work focuses on **trustworthy and privacy-preserving AI**, with an emphasis on machine unlearning, multi-agent LLM safety, representation-level privacy control, and robust alignment.
 
-I am currently a PhD student in Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) advised by [Dr. Mohammad Mohammadi Amiri](https://mmamiri.github.io/).  My research interests lie broadly in Machine Learning, Artificial Intelligence, and Data Valuation. I am particularly focused on developing methods to measure data quality, aiming to make AI and large language models (LLMs) more beneficial for everyone.
+I design methods that make large AI systems more reliable in high-stakes settings by combining theoretical foundations with practical evaluation. Recent projects include optimization-driven machine unlearning, information-theoretic privacy control for sequential multi-agent LLM pipelines, and benchmark development for harmful or manipulative model behavior.
 
-I hold a Bachelor's Degree in Electrical Engineering with a minor in Computer Science from the [National University of Sciences and Technology](https://nust.edu.pk/).
+Alongside academic research, I collaborate with industry teams to translate research into deployable systems. At IBM Research, I am working on secure KV-cache sharing mechanisms for multi-agent LLM architectures, including threat modeling and empirical leakage analysis.
+
+Before starting my PhD, I worked across AI engineering and quantitative systems as a technical lead and founding engineer, building large-scale ML and backend platforms in production environments.
+
+I hold a B.Sc. in Electrical Engineering with a minor in Computer Science from the [National University of Sciences and Technology (NUST)](https://nust.edu.pk/).
 
 <!-- A data-driven personal website
 ======
