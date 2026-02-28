@@ -13,7 +13,7 @@ I am a PhD student in Computer Science at [Rensselaer Polytechnic Institute](htt
 
 I design methods that make large AI systems more reliable in high-stakes settings by combining theoretical foundations with practical evaluation. Recent projects include optimization-driven machine unlearning, information-theoretic privacy control for sequential multi-agent LLM pipelines, and benchmark development for harmful or manipulative model behavior.
 
-Alongside academic research, I collaborate with industry teams to translate research into deployable systems. At IBM Research, I am working on secure KV-cache sharing mechanisms for multi-agent LLM architectures.
+Alongside academic research, I collaborate with industry teams to translate research into deployable systems. At IBM Research, I am working on secure KV-cache sharing mechanisms for multi-agent LLM architectures through the **RPI–IBM Future of Computing Research Collaboration**. 
 
 Before starting my PhD, I worked across AI engineering and quantitative systems as a technical lead and founding engineer, building large-scale ML and backend platforms in production environments.
 
