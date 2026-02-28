@@ -50,14 +50,10 @@ I hold a B.Sc. in Electrical Engineering with a minor in Computer Science from t
   * IEEE Conference on AI (CAI), 2026
   * AAAI, 2025
 
-<h2 id="contact">Profiles</h2>
-
-* [Google Scholar]({{ site.author.googlescholar }})
-* [ResearchGate]({{ site.author.researchgate }})
-* [LinkedIn](https://www.linkedin.com/in/{{ site.author.linkedin }})
-* [GitHub](https://github.com/{{ site.author.github }})
+<h2 id="visitors">Visitor Map</h2>
 
 {% if site.clustrmaps_id and site.clustrmaps_id != "" %}
-<h2 id="visitors">Visitor Map</h2>
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=450&t=tt&d={{ site.clustrmaps_id }}&co=2d78ad&ct=ffffff"></script>
+{% else %}
+<p>Visitor map is currently being initialized.</p>
 {% endif %}
