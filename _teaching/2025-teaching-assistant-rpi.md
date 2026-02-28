@@ -1,14 +1,12 @@
 ---
-title: "Teaching Assistant, Computer Science Courses"
+title: "Teaching Assistant, Undergraduate Computer Science"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2025-teaching-assistant-rpi
 venue: "Rensselaer Polytechnic Institute"
-date: 2025-01-01
 location: "Troy, New York, USA"
 ---
 
-Teaching Assistant for the following courses at RPI:
+Served as a Teaching Assistant for the following undergraduate computer science courses at RPI:
 
 - Introduction to Artificial Intelligence
 - Introduction to Algorithms
