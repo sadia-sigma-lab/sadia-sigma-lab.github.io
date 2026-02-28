@@ -7,6 +7,7 @@ excerpt: 'A comprehensive benchmark to evaluate manipulative and harmful behavio
 date: 2026-01-01
 venue: 'Under review'
 status: 'Under review'
+paperurl: 'https://openreview.net/pdf?id=K88qmSAs7V'
 citation: 'Asif, S., Loguan, I., Asif, S., &amp; Khan, H. (2025). &quot;DarkPatterns-LLM: A Benchmark for Detecting Manipulative and Harmful Behaviors in LLMs.&quot; Under review.'
 ---
 
