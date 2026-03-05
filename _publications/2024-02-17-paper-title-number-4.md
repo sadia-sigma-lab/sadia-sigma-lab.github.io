@@ -8,7 +8,7 @@ date: 2025-12-01
 venue: 'NeurIPS 2025 Workshop on Generative AI for Protected and Controllable Content (GenProCC)'
 status: 'Published'
 status_venue: 'NeurIPS 2025 GenProCC Workshop'
-paperurl: 'https://arxiv.org/abs/2512.22470'
+paperurl: 'https://arxiv.org/pdf/2601.12348'
 citation: 'Khan, H., &amp; Asif, S. (2025). &quot;Generative AI Agents for Controllable and Protected Content Creation.&quot; <i>NeurIPS 2025 GenProCC Workshop</i>.'
 ---
 
