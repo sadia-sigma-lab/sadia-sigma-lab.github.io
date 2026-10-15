@@ -13,13 +13,11 @@ I am a PhD student in Computer Science at [Rensselaer Polytechnic Institute](htt
 
 I design methods that make large AI systems more reliable in high-stakes settings by combining theoretical foundations with practical evaluation. Recent projects include optimization-driven machine unlearning, information-theoretic privacy control for sequential multi-agent LLM pipelines, and benchmark development for harmful or manipulative model behavior.
 
-Alongside academic research, I collaborate with industry teams to translate research into deployable systems. I am a Research Collaborator and former Research Extern at **IBM Research**, working with Prasanna Sattigeri, Karthikeyan Natesan Ramamurthy, and Momin Abbas on secure KV-cache sharing for multi-agent LLM systems and on long-horizon agent safety benchmarking.
+Alongside academic research, I collaborate with industry teams to translate research into deployable systems. At IBM Research, I am working on secure KV-cache sharing mechanisms for multi-agent LLM architectures through the **RPI–IBM Future of Computing Research Collaboration**. 
 
 Before starting my PhD, I worked across AI engineering and quantitative systems as a technical lead and founding engineer, building large-scale ML and backend platforms in production environments.
 
 I hold a B.Sc. in Electrical Engineering with a minor in Computer Science from the [National University of Sciences and Technology (NUST)](https://nust.edu.pk/).
-
-For a full breakdown of my experience, publications, and awards, see my [CV](/cv/).
 
 <h2 id="research">Research Focus</h2>
 
@@ -43,15 +41,14 @@ For a full breakdown of my experience, publications, and awards, see my [CV](/cv
 
 <h2 id="academic-services">Academic Services</h2>
 
-* **Area Chair:** Who Verifies the Agents? Workshop @ NeurIPS 2026
-* **Program Committee Member:** Bidirectional Human-AI-Alignment Workshop @ NeurIPS 2026
-* **Conference Reviewer:** IEEE Conference on AI (CAI) 2026; AAAI (2025, 2026); ICML 2026; COLM 2026; NeurIPS 2026
-* **Journal Reviewer:** Machine Intelligence Research; IEEE Transactions on Network Science and Engineering; Informatics for Health and Social Care
 * **Teaching Assistant, Rensselaer Polytechnic Institute (RPI)**
   * Introduction to Artificial Intelligence
   * Introduction to Algorithms
   * Computer Architecture and Operating Systems
   * Computer Organization
+* **Conference Reviewer**
+  * IEEE Conference on AI (CAI), 2026
+  * AAAI, 2025
 
 <h2 id="visitors">Visitor Map</h2>
 
